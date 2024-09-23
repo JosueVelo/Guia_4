@@ -62,25 +62,6 @@ data = pd.read_csv('weather.csv')
 data.head()
 ```
 
-
-
-
-
-  <div id="df-e64bc980-059d-418e-86d1-0b90431328f0" class="colab-df-container">
-    <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
