@@ -941,7 +941,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](https://github.com/JosueVelo/Guia_4/blob/main/N1.png?raw=true)
     
 
 
@@ -976,7 +976,7 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![png]([output_34_0.png](https://github.com/JosueVelo/Guia_4/blob/main/N2.png?raw=true))
     
 
 
@@ -1009,7 +1009,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](https://github.com/JosueVelo/Guia_4/blob/main/N3.png?raw=true)
     
 
 
@@ -1054,7 +1054,7 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![png](https://github.com/JosueVelo/Guia_4/blob/main/N4.png?raw=true)
     
 
 
@@ -1090,7 +1090,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](https://github.com/JosueVelo/Guia_4/blob/main/N5.png?raw=true)
     
 
 
